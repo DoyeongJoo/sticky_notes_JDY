@@ -1,6 +1,6 @@
 # sticky_notes
 
-간단한 노트 애플리케이션
+flutter를 사용한 노트 애플리케이션
 
 ## Getting Started
 
